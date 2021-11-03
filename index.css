@@ -1,0 +1,90 @@
+body{
+    align-items: center;
+    width: 900;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+    background-color: aqua;
+}
+ul{
+    list-style-type: none; 
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: white;
+    font-size: 30px;
+    background-color: yellow;
+       
+}
+li{
+    float: left;
+}
+li a{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 16px 18px;
+    text-decoration: none;
+    color: black;
+}
+.list{
+    float: right;
+}
+#img{
+    float: right;
+}
+.Services{
+    height: 250px;
+    background-color: violet;
+    text-align: center;
+    clear: both;
+    justify-content: space-between;
+    font-size: x-large;
+    padding-top: 20px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    border: solid black 2px;
+}
+.pet-par{
+    margin: 10px;
+    margin-top: 30px;
+    font-size: x-large;
+}
+.pet2{
+   display: flex; 
+   width: 100%;
+   justify-content: space-between;
+}
+#Pet1{
+    text-align: center;
+    border: solid black 2px;
+    border-radius: 6px;
+    height: 250px;
+    padding: 20px;
+}
+#Pet2{
+    text-align: center;
+    border: solid black 2px;
+    border-radius: 6px;
+    height: 300px;
+    padding: 20px;
+} 
+#Pet3{
+    text-align: center;
+    border: solid black 2px;
+    border-radius: 6px;
+    height: 250px;
+    padding: 20px;
+}    
+.footer{
+    margin-top: 25px;
+} 
+.about{
+    margin-left: 500px;
+    padding-top:10px;
+}
+#about{
+padding-top: 10px;
+}
+form{
+    margin-left: 500px;
+    padding-top: 5px;
+}
