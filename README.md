@@ -1,5 +1,5 @@
 # Dog Care
-This is a Dog Care website designed on the 8/11/2020 by 
+This is a Dog Care website designed on the 8/11/2021 by 
 Ian Otieno and Faith Nduta.
 ## Description
 This is a Dog Care website.It contains all information on a project that we have worked on and the experience gained.
